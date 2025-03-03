@@ -1,4 +1,4 @@
-import random
+import random
 
 FB_gol=random.randint(0,5)
 GS_gol=random.randint(0,5)
